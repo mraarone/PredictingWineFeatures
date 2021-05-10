@@ -1,0 +1,6 @@
+{
+    "python.venvPath": "~/.virtualenvs",
+    "python.venvFolders": [
+        "${workspaceFolder}/.virtualenv"
+    ]
+}
