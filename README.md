@@ -45,14 +45,14 @@ VS Code, install the extension, SonarLint, it will require JRE, let it download 
 
 
 ## Set up Python Requirements and Dependencies
-### Now you can run pip installs and they are only installed for your project.
-### Install from a requirements.txt document with:
+Now you can run pip installs and they are only installed for your project.
 
+Install from a requirements.txt document with:
 ~~~
 pip install -r requirements.txt 
 ~~~
 
-### You can also run "pip freeze" to output the requirements for your python project or to pipe into a requirements.txt to freeze dependency versions.
+You can also run "pip freeze" to output the requirements for your python project or to pipe into a requirements.txt to freeze dependency versions.
 ~~~
 pip freeze
 ~~~
